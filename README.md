@@ -15,3 +15,8 @@ Vuforia
 
 ### Program Flow
 ![alt text](https://github.com/AdityaDeodeshmukh/EDU-V/blob/master/flowchart.jpeg)
+
+
+### Advantages
+---> AR integration
+---> Direct Student teacher connection
