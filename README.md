@@ -14,4 +14,4 @@ Unity
 Vuforia
 
 ### Program Flow
-![alt text](https://github.com/AdityaDeodeshmukh/EDU-V/blob/master/flowchart.jpg?raw=true)
+![alt text](https://github.com/AdityaDeodeshmukh/EDU-V/blob/master/flowchart.jpeg)
