@@ -12,3 +12,6 @@ EDU-V offers the best of E-learning in various fields such as academics,music, s
 Flutter
 Unity
 Vuforia
+
+### Program Flow
+![alt text](https://github.com/AdityaDeodeshmukh/EDU-V/blob/master/flowchart.jpg?raw=true)
